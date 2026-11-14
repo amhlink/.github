@@ -26,8 +26,8 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 
 - **Local by default**: Core features (speech synthesis, phrase boards, reading databases, and document parsing) run on-device so they work without a network connection.
 - **Data minimization**: When a feature requires network coordination (such as Flock group relays), payloads are end-to-end encrypted on-device with short-lived retention.
-- **Source & security**: Our application repositories are maintained privately. For support, bug reports, or security disclosures, contact [triton@amhlink.com](mailto:triton@amhlink.com).
+- **Source & security**: Our application repositories are maintained privately. For support, bug reports, or security disclosures, contact [support@amhlink.com](mailto:support@amhlink.com).
 
 ---
 
-<sub>[amhlink.com](https://amhlink.com) · [AMH Link Labs](https://amhlink.com/labs/) · [Studio Privacy Policy](https://amhlink.com/privacy/) · [triton@amhlink.com](mailto:triton@amhlink.com)<br>© 2026 AMHLINK PTE. LTD.</sub>
+<sub>[amhlink.com](https://amhlink.com) · [AMH Link Labs](https://amhlink.com/labs/) · [Studio Privacy Policy](https://amhlink.com/privacy/) · [support@amhlink.com](mailto:support@amhlink.com)<br>© 2026 AMHLINK PTE. LTD.</sub>
