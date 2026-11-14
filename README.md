@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/amhlink/.github/main/profile/logo.svg" width="56" height="56" alt="AMH Link Studio" />
+<img src="https://raw.githubusercontent.com/amhlink/.github/main/profile/logo.svg" width="56" height="56" alt="AMHLink" />
 
-# AMH Link Studio
+# AMHLink
 <!-- TL;DR: Offline-first mobile utility apps for Android and iOS -->
 
-AMH Link Studio builds offline-first mobile utility apps for Android and iOS. Each app focuses on a single daily task, runs locally on your device without mandatory accounts, and contains no advertising SDKs or third-party analytics trackers.
+AMHLink builds offline-first mobile utility apps for Android and iOS. Each app focuses on a single daily task, runs locally on your device without mandatory accounts, and contains no advertising SDKs or third-party analytics trackers.
 
 ## Applications
 
@@ -12,7 +12,7 @@ AMH Link Studio builds offline-first mobile utility apps for Android and iOS. Ea
 | **[Sotto](https://amhlink.com/sotto/)** | Non-medical AAC phrase boards and on-device speech synthesis for reliable daily voice output. | [Google Play](https://play.google.com/store/apps/details?id=com.amh.sotto) · [Overview](https://amhlink.com/sotto/) · [Privacy](https://amhlink.com/sotto/privacy.html) |
 | **[TextVoyager](https://amhlink.com/textvoyager/)** | Offline personal web and ebook reader with continuous background text-to-speech. | Up Next · [Overview](https://amhlink.com/textvoyager/) · [Privacy](https://amhlink.com/textvoyager/privacy.html) |
 
-## AMH Link Labs
+## AMHLink Labs
 
 Early prototypes and active utility experiments incubated at [amhlink.com/labs](https://amhlink.com/labs/).
 
@@ -30,4 +30,4 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 
 ---
 
-<sub>[amhlink.com](https://amhlink.com) · [AMH Link Labs](https://amhlink.com/labs/) · [Studio Privacy Policy](https://amhlink.com/privacy/) · [support@amhlink.com](mailto:support@amhlink.com)<br>© 2026 AMHLINK PTE. LTD.</sub>
+<sub>[amhlink.com](https://amhlink.com) · [AMHLink Labs](https://amhlink.com/labs/) · [Studio Privacy Policy](https://amhlink.com/privacy/) · [support@amhlink.com](mailto:support@amhlink.com)<br>© 2026 AMHLINK PTE. LTD.</sub>
