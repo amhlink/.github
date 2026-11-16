@@ -18,9 +18,11 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 
 | Experiment | Focus | Stage & Links |
 | :--- | :--- | :--- |
-| **[Flock](https://amhlink.com/flock/)** (`EXP-01`) | End-to-end encrypted real-time circle radar and coordination for families and event crews. | `PROTOTYPE` · [Overview](https://amhlink.com/flock/) · [Privacy](https://amhlink.com/flock/privacy.html) |
-| **[Tally](https://amhlink.com/tally/)** (`EXP-02`) | On-device receipt scanning, multi-currency ledgering, and proof-backed trip expense splitting. | `CONCEPT` · [Overview](https://amhlink.com/tally/) · [Privacy](https://amhlink.com/tally/privacy.html) |
+| **[Flock](https://amhlink.com/flock/)** (`EXP-01`) | End-to-end encrypted live spatial radar, dynamic geofences, and auto-expiring arrival alerts for families and rally crews. | `PROTOTYPE` · [Overview](https://amhlink.com/flock/) · [Privacy](https://amhlink.com/flock/privacy.html) |
+| **[Tally](https://amhlink.com/tally/)** (`EXP-02`) | On-device receipt OCR scanning and offline single-ledger budget tracking. | `CONCEPT` · [Overview](https://amhlink.com/tally/) · [Privacy](https://amhlink.com/tally/privacy.html) |
 | **[SnapLane](https://amhlink.com/snaplane/)** (`EXP-03`) | Tactical rule composition and macro economy balancing with deterministic simulation. | `PROTOTYPE` · [Overview](https://amhlink.com/snaplane/) · [Privacy](https://amhlink.com/snaplane/privacy.html) |
+| **[Folio](https://amhlink.com/labs/)** (`EXP-04`) | Private net worth ledger across stocks, property, cash, and insurance with optional Google Sheet backup. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/) |
+| **[Slate](https://amhlink.com/labs/)** (`EXP-05`) | Zero-signup group itineraries, simple trip bill-splitting, and 1-tap chat or email summaries. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/) |
 
 ## How We Work
 
