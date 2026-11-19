@@ -9,7 +9,7 @@ AMHLink builds offline-first mobile utility apps for Android and iOS. Each app f
 
 | Application | Focus | Status & Links |
 | :--- | :--- | :--- |
-| **[Sotto](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile)** | Non-medical AAC phrase boards and on-device speech synthesis for reliable daily voice output. | [Google Play](https://play.google.com/store/apps/details?id=com.amh.sotto) · [Overview](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/sotto/privacy.html?utm_source=github&utm_medium=org_profile) |
+| **[Sotto](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile)** | Non-medical AAC phrase boards and on-device speech synthesis for reliable daily voice output. | [Google Play](https://play.google.com/store/apps/details?id=com.amh.sotto) · [App Store](https://apps.apple.com/app/sotto/id6836294010) · [Overview](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/sotto/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[TextVoyager](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile)** | Offline personal web and ebook reader with continuous background text-to-speech. | Up Next · [Overview](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/textvoyager/privacy.html?utm_source=github&utm_medium=org_profile) |
 
 ## AMHLink Labs
