@@ -23,6 +23,7 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 | **[SnapLane](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile)** (`EXP-03`) | Tactical rule composition and macro economy balancing with deterministic simulation. | `PROTOTYPE` · [Overview](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/snaplane/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[Folio](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-04`) | Private net worth ledger across stocks, property, cash, and insurance with optional Google Sheet backup. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 | **[Slate](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-05`) | Zero-signup group itineraries, simple trip bill-splitting, and 1-tap chat or email summaries. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
+| **[Tempo](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-06`) | Offline-first visual routine strip, First-Then transition board, and guilt-free pie countdown timer. | `PROTOTYPE` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 
 ## How We Work
 
