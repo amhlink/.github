@@ -10,7 +10,8 @@ AMHLink builds offline-first mobile utility apps for Android and iOS. Each app f
 | Application | Focus | Status & Links |
 | :--- | :--- | :--- |
 | **[Sotto](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile)** | Non-medical AAC phrase boards and on-device speech synthesis for reliable daily voice output. | [Google Play](https://play.google.com/store/apps/details?id=com.amh.sotto) · [App Store](https://apps.apple.com/app/sotto/id6836294010) · [Overview](https://amhlink.com/sotto/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/sotto/privacy.html?utm_source=github&utm_medium=org_profile) |
-| **[TextVoyager](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile)** | Offline personal web and ebook reader with continuous background text-to-speech. | Up Next · [Overview](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/textvoyager/privacy.html?utm_source=github&utm_medium=org_profile) |
+| **[TextVoyager](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile)** | Offline personal web and ebook reader with continuous background text-to-speech. | [App Store](https://apps.apple.com/app/id6836303726) · [Overview](https://amhlink.com/textvoyager/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/textvoyager/privacy.html?utm_source=github&utm_medium=org_profile) |
+| **[Tempo](https://amhlink.com/tempo/?utm_source=github&utm_medium=org_profile)** | Offline-first visual routine strip, First-Then transition board, and guilt-free pie countdown timer. | Up Next · [Overview](https://amhlink.com/tempo/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/tempo/privacy.html?utm_source=github&utm_medium=org_profile) |
 
 ## AMHLink Labs
 
@@ -23,7 +24,6 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 | **[SnapLane](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile)** (`EXP-03`) | Offline 1v1 3-lane tactical auto-battler with snap-together rule cards, Daily Lane puzzles, and 15-stage Gauntlet. | `PROTOTYPE` · [Overview](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/snaplane/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[Folio](https://amhlink.com/folio/?utm_source=github&utm_medium=org_profile)** (`EXP-04`) | Private net worth ledger across stocks, property, cash, and insurance with optional Google Sheet backup. | `CONCEPT` · [Overview](https://amhlink.com/folio/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/folio/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[Slate](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-05`) | Zero-signup group itineraries, simple trip bill-splitting, and 1-tap chat or email summaries. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
-| **[Tempo](https://amhlink.com/tempo/?utm_source=github&utm_medium=org_profile)** (`EXP-06`) | Offline-first visual routine strip, First-Then transition board, and guilt-free pie countdown timer. | `PROTOTYPE` · [Overview](https://amhlink.com/tempo/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/tempo/privacy.html?utm_source=github&utm_medium=org_profile) |
 
 ## How We Work
 
