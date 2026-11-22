@@ -26,6 +26,7 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 | **[Slate](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-05`) | Zero-signup group itineraries, simple trip bill-splitting, and 1-tap chat or email summaries. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 | **[Binder](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-07`) | Offline pocket binder for household checklists, school event countdowns, family trips, and reusable lists. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 | **[Ember](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-08`) | Offline voice and text journal with 3-lens organization (Memories, Lessons, Ideas) and calm daily resurfacing. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
+| **[Totem](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-09`) | Co-op pedometer for families and friend groups turning everyday walks and RAM-only Zone stamps into one shared weekly Totem with zero route maps. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 
 ## How We Work
 
