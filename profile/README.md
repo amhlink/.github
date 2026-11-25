@@ -23,7 +23,6 @@ Early prototypes and active utility experiments incubated at [amhlink.com/labs](
 | **[SnapLane](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile)** (`EXP-03`) | Offline 1v1 3-lane tactical auto-battler with snap-together rule cards, Daily Lane puzzles, and 15-stage Gauntlet. | `PROTOTYPE` · [Overview](https://amhlink.com/snaplane/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/snaplane/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[Folio](https://amhlink.com/folio/?utm_source=github&utm_medium=org_profile)** (`EXP-04`) | Private net worth ledger across stocks, property, cash, and insurance with optional Google Sheet backup. | `CONCEPT` · [Overview](https://amhlink.com/folio/?utm_source=github&utm_medium=org_profile) · [Privacy](https://amhlink.com/folio/privacy.html?utm_source=github&utm_medium=org_profile) |
 | **[Ember](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-08`) | Offline voice and text journal with 3-lens organization (Memories, Lessons, Ideas) and calm daily resurfacing. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
-| **[Totem](https://amhlink.com/labs/?utm_source=github&utm_medium=org_profile)** (`EXP-09`) | Co-op pedometer for families and friend groups turning everyday walks and RAM-only Zone stamps into one shared weekly Totem with zero route maps. | `CONCEPT` · [Privacy](https://amhlink.com/privacy/?utm_source=github&utm_medium=org_profile) |
 
 ## How We Work
 
